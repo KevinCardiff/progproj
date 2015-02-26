@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ProgProj</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_button">Next Screen</string>
+    <string name="title_activity_display_message">Second Screen</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
